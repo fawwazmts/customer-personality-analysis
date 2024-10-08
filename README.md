@@ -123,4 +123,4 @@ Secara umum, berikut merupakan langkah analisis data pada projek ini.
 
 ## Catatan Tambahan
 
-Dashboard yang berkaitan dengan analisis ini dapat diakses [di sini](https://public.tableau.com/views/CustomerPersonalityAnalysis_17247480326150/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). Dashboard ini dibuat menggunakan Tableau.
+Dashboard yang berkaitan dengan analisis ini dapat diakses [di sini](https://public.tableau.com/views/CustomerPersonalityAnalysis_17247480326150/DashboardCPA?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). Dashboard ini dibuat menggunakan Tableau.
